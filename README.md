@@ -1,18 +1,20 @@
 # Project Name
 
-> Hello-Microverse -Project
+Hello Microverse Project.
+
+# Description
+
+This is My First Project at Microverse.
 
 ## Built With
 
 - HTML&CSS
 
-## Authors
+## Author
 
-👤 **Author1**
-
-- GitHub: [letarulinda](https://github.com/letarulinda)
-- Twitter: [letarulinda](https://twitter.com/letarulinda)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/letarulinda)
+Letaru Linda
+GitHub: https://github.com/letarulinda
+LinkedIn: linkedin.com/in/linda-letaru-masia-7b48a9175
 
 ## 📝 License
 
